@@ -1,0 +1,169 @@
+#icerik{
+	width:960px;
+	margin:0 auto;
+}
+#logom{
+	width:65px;
+	height:65px;
+	float:left;
+	margin-left:5px;
+	padding-right:10px;
+}
+#headerust{
+	width:960px;
+	height:20px;
+	background-color:#40626b;
+	margin-top:20px;
+}
+#headeralt{
+	width:960px;
+	height:45px;
+	background-color:#FF7100;
+}
+#headerustyazi{
+	color:white;
+	font-size:18px;
+	font-family:Myriad Pro;
+	font-style:italic;
+}
+#headeraltyazi{
+	color:white;
+	font-size:40px;
+	font-family:Myriad Pro;
+}
+#menubar{
+	width:960px;
+	height:32px;
+	background-color:#009BB2;
+	margin-top:10px;
+	float:left;
+}
+#menuUl{
+	margin-top:5px;
+	padding:0;
+}
+.menuli{
+	list-style-type:none;
+	float:left;
+	color:white;
+	padding-left:55px;
+	margin-top:3px;
+	font-size:20px;
+}
+.iconpic{
+	width:25px;
+	height:20px;
+	margin-bottom:5px;
+	float:left;
+	padding-right:5px;
+}
+#binasorgu{
+	float:left;
+	width:560px;
+	margin-top:20px;
+}
+#searchicon{
+	 height:22px;
+	 width:22px;
+	 float:left;
+}
+#binabaslik{
+	font-family:Myriad Pro;
+	font-size:18px;
+}
+#mapustu{
+	width:560px;
+	height:26px;
+	float:left;
+}
+#selection{
+	width:560px;
+	height:36px;
+	float:left;
+}
+#map{
+	width:555px;
+	height:420px;
+	
+}
+#iller{
+	color:#402d85;
+	font-size:15px;
+	float:left;
+	margin-top:3px;
+}
+#ilceler{
+	color:#402d85;
+	font-size:15px;
+	float:left;
+	margin-top:3px;
+	margin-left:5px;
+}
+#okullar{
+	color:#402d85;
+	font-size:15px;
+	float:left;
+	margin-top:3px;
+	margin-left:5px;
+}
+#okulsecimi{
+	font-size:10px;
+	font-style:italic;
+	line-height:%50;
+}
+#duyurular{
+	width:400px;
+	float:left;
+	margin-top:14px;
+	font-family:Myriad Pro;
+	padding:none;
+}
+#bookmark{
+	height:22px;
+	width:22px;
+	margin-left:295px;
+}
+#duyurubaslik{
+	font-family:Myriad Pro;
+	font-size:18px;
+}
+.duyuruline{
+	width:390px;
+}
+#duyurularalti{
+	width:400px;
+	height:36px;
+	float:left;
+}
+#date{
+	height:35px;
+	margin-left:244px;
+	float:left;
+}
+#datelabel{
+	font-family:Myriad Pro;
+	padding:5px;
+	float:left;
+}
+.duyururesim{
+	width:130px;
+	height:88px;
+	float:left;
+	margin-left:5px;
+	padding-right:5px;
+}
+.basliklar{	
+	font-size:13px;
+	font-style:bold;
+	height:6px;
+	width:250px;
+	color:#003366;
+	float:left;
+	margin-left:3px;
+	padding-bottom:10px;
+}
+.metinler{
+	font-size:10px;
+	padding-bottom:8px;
+	text-align:justify;
+}
